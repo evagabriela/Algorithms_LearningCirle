@@ -3,8 +3,8 @@
 ## Month 1
 
 ### Week 1 - Introduction
-..* Analysis of Algorithms Introduction
-..* Theory of Algorithms (Video from the coursera Princeton class)
+* Analysis of Algorithms Introduction
+* Theory of Algorithms (Video from the coursera Princeton class)
 
 ### Week 2 - Big Oh Notation
 ..* [https://class.coursera.org/algo-004/lecture/4]
