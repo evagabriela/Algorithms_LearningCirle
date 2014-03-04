@@ -12,7 +12,7 @@
 ..* [https://class.coursera.org/algo-004/lecture/11]
 ..* [https://class.coursera.org/algo-004/lecture/12]
 
-..#### Extra Resources:
+#### Extra Resources:
 ....* [http://interactivepython.org/runestone/static/pythonds/AlgorithmAnalysis/analysis.html]
 ....* [http://bigocheatsheet.com/]
 ....* [http://www.cprogramming.com/tutorial/computersciencetheory/algorithmicefficiency1.htm]
